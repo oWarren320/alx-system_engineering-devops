@@ -1,2 +1,2 @@
 #!/bin/bash
-which ls
+SOURCE=${BASH_SOURCE[0]}
