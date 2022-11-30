@@ -1,2 +1,2 @@
 #!/bin/bash
-SOURCE=${BASH_SOURCE[0]}
+$ ./0-current_working_directory
