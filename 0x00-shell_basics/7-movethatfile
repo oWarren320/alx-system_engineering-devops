@@ -1,2 +1,2 @@
 #!/bin/bash
-./7movethatfile
+mv /tmp/betty /tmp/holberton/
