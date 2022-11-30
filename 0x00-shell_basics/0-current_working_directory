@@ -1,2 +1,2 @@
 #!/bin/bash
-SCRIPT=$(readlink -f $0)
+pwd
